@@ -15,7 +15,7 @@ Ensure you have the following installed before running the application:
 
 - .NET 6.0 or later
 - Microsoft SQL Server
-- Entity Framework Core
+- ADO.NET
 - EPPlus (for Excel processing)
 
 ## Installation
