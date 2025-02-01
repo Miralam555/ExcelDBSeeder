@@ -23,4 +23,4 @@ Ensure you have the following installed before running the application:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/ExcelToSQLImporter.git
-   cd ExcelToSQLImporter
+   cd ExcelDBSeeder
